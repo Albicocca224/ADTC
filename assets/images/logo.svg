@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56" role="img" aria-labelledby="title">
+  <title id="title">Adex Trade Company logo</title>
+  <rect width="56" height="56" rx="8" fill="#0B1F33"/>
+  <path d="M16 38 28 14l12 24h-7l-2.1-4.8H25L22.9 38H16Zm10.8-10h2.4L28 25.1 26.8 28Z" fill="#FFFFFF"/>
+  <path d="M50 8v40" stroke="#D8AA45" stroke-width="4"/>
+  <text x="72" y="24" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#0B1F33">Adex Trade</text>
+  <text x="72" y="42" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#566274">Company</text>
+</svg>
